@@ -7,7 +7,7 @@ MyEnglishLabへの登録方法です。通信量に制限のある人は、こ�
 _※アクセスコードを入手できるのは、教科書購入以降になります。手順5以降の作業は、教科書購入後に行ってください。_
 
 ### 1. Pearson English Portalへアクセスします。
-https://english-dashboard.pearson.com/ 
+[https://english-dashboard.pearson.com/](https://english-dashboard.pearson.com/)
 
 ### 2. 「Create an account（アカウントを作成する）」のリンクをクリックします。
 ![alt](MEL_01.png)  
@@ -110,7 +110,7 @@ _アクセスコードが入力できるのは、教科書購入以降になり�
 ![alt](MEL_19.png)  
 
 以上で、MyEnglishLabの登録は終わりです。  
-https://english-dashboard.pearson.com/ をお気に入りやホーム画面に登録し、ログインできるようにしておいてください。
+[https://english-dashboard.pearson.com/](https://english-dashboard.pearson.com/) をお気に入りやホーム画面に登録し、ログインできるようにしておいてください。
 
 分からないことや、うまく行かないことがあったら、すぐに金田迪子（kaneda-michiko@jissen.ac.jp）にメールで相談して下さい。
 
